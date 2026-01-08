@@ -116,6 +116,26 @@ bash <(curl -Ls https://raw.githubusercontent.com/iaghapour/DoH-SmartDNS-Nginx/r
 ```
 
 > 📝 **توجه:** در کد بالا، حتماً جای `YOUR-DOMAIN.COM` نام دامنه خودتان را بنویسید.
+---
+
+## 📱 قسمت DNS کلاینت V2rayN
+```json
+{
+  "hosts": {
+    "ddns.iran123.online": "162.159.36.1",
+    "geosite:category-ads-all": "127.0.0.1"
+  },
+  "servers": [
+    {
+      "address": "https://ddns.iran123.online/dns-query",
+      "domains": [],
+      "skipFallback": true
+    },
+    "1.1.1.1",
+    "8.8.8.8"
+  ]
+}
+```
 
 ---
 
