@@ -152,7 +152,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/iaghapour/DoH-SmartDNS-Nginx/r
 
 ویدیو کامل آموزش نصب و راه‌اندازی این اسکریپت را می‌توانید در کانال من ببینید:
 
-🔗 [لینک ویدیو در کانال iAghapour](https://www.youtube.com/@iAghapour)
+🔗 [لینک ویدیو در کانال iAghapour](https://youtu.be/NGUPWVNCcEU)
 
 ---
 
