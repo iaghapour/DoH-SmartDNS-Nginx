@@ -18,7 +18,7 @@
 برای نصب، کافیست دستور زیر را در ترمینال سرور خود (با دسترسی روت) کپی و اجرا کنید:
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/iAghapour/DoH-SmartDNS-Nginx/main/setup.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/iaghapour/DoH-SmartDNS-Nginx/refs/heads/main/setup.sh)
 ```
 
 
